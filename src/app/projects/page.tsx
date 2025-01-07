@@ -8,12 +8,14 @@ const projects = [
   {
     title: 'Urbane Cart',
     description: 'A user-friendly e-commerce application offering a seamless shopping experience with secure payment options and order tracking.',
-    link: 'https://github.com/Tusharpandao/urbane-cart',
+    link: 'https://github.com/Tusharpandao/UrbaneCart',
+    websiteLink : 'https://urbanecart.in/',
   },
   {
     title: 'Student Data Management System (SDMS)',
     description: 'A Spring Boot-based application for efficient management of student records with a secure and user-friendly interface.',
-    link: 'https://github.com/Tusharpandao/sdms',
+    link: 'https://github.com/Tusharpandao/Student_Management_Spring_Boot_Application',
+    websiteLink:'https://vercel.com/tushar-pandaos-projects/my-portfolio',
   },
 ];
 
