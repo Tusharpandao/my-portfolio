@@ -24,7 +24,7 @@ export default function Contact() {
       });
       if (res.ok) setResponse('Email sent successfully!');
       else setResponse('Failed to send email.');
-    } catch (error) {
+    } catch {
       setResponse('Error sending email.');
     }
   };
